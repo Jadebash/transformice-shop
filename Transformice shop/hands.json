@@ -1,0 +1,906 @@
+{
+  "8_1": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_2": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_3": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_4": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_5": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_6": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_7": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_8": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_9": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_10": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_11": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_12": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_13": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_14": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_15": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_16": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_17": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_18": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_19": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_20": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_21": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_22": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_23": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_24": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_25": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_26": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_27": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_28": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_29": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_30": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_31": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_32": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_33": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_34": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_35": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_36": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_37": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_38": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_39": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_40": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_41": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_42": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_43": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_44": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_45": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_46": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_47": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_48": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_49": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_50": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_51": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_52": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_53": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_54": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_55": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_56": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_57": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_58": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_59": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_60": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_61": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_62": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_63": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_64": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_65": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_66": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_67": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_68": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_69": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_70": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_71": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_72": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_73": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_74": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_75": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_76": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_77": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_78": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_79": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_80": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_81": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_82": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_83": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_84": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_85": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_86": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_87": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_88": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_89": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_90": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_91": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_92": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_93": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_94": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_95": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_96": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_97": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_98": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_99": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_100": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_101": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_102": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_103": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_104": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_105": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_106": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_107": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_108": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_109": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_110": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_111": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_112": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "8_113": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  }
+}
