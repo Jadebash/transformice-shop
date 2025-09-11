@@ -1214,5 +1214,38 @@
     "cheese_price": 3000,
     "strawberry_price": 150,
     "need_another_item": -1
+  },
+  "2_153": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "2_154": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "2_155": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
+  },
+  "2_156": {
+    "color_num": 0,
+    "is_new": false,
+    "type": 0,
+    "cheese_price": 3000,
+    "strawberry_price": 150,
+    "need_another_item": -1
   }
+
 }
